@@ -1,4 +1,4 @@
-# Draw-Digits
+# Draw-Digits Django
 Python AI game for kids to learn numbers
 <br>
 ## Instructions:
